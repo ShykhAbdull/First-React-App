@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": 100001,
+      "model": "Infinix",
+      "name": "Note 12 Pro",
+      "Ram": "8GB",
+      "Rom": "12GB",
+      "price": 12000,
+      "thumbnail": "https://i.ibb.co/jkdn1fq/Infinix-Note-12-Pro-5-G-price-Edited.png"
+    },
+    {
+      "id": 100002,
+      "model": "Samsung",
+      "name": "S22 Pro",
+      "Ram": "10GB",
+      "Rom": "12GB",
+      "price": 22000,
+      "thumbnail": "https://i.ibb.co/KLGhgPh/pk-galaxy-s22-ultra-s908-413093-413093-sm-s908ezkgpkd-thumb-531032927.webp"
+    },
+    {
+      "id": 100003,
+      "model": "Nokia",
+      "name": "Lumia ",
+      "Ram": "4GB",
+      "Rom": "12GB",
+      "price": 10000,
+      "thumbnail": "https://i.ibb.co/W28fyFD/nokia-lumia-520-2-Edited.png"
+    },
+    {
+      "id": 100004,
+      "model": "Motorolla",
+      "name": "Edge Plus",
+      "Ram": "6GB",
+      "Rom": "12GB",
+      "price": 18000,
+      "thumbnail": "https://i.ibb.co/zHhLSFc/iphone-9-case-1-Edited.png"
+    },
+    {
+      "id": 100005,
+      "model": "Sony",
+      "name": "Xperia Pro ",
+      "Ram": "4GB",
+      "Rom": "12GB",
+      "price": 15000,
+      "thumbnail": "https://i.ibb.co/j4qm3pz/images-Edited.png"
+    },
+    {
+      "id": 100006,
+      "model": "Qmobile",
+      "name": "Noir ",
+      "Ram": "4GB",
+      "Rom": "12GB",
+      "price": 8000,
+      "thumbnail": "https://i.ibb.co/YZ6SPmd/qmobile-noir-z9-Edited.png"
+    },
+    {
+      "id": 100007,
+      "model": "Samsung",
+      "name": "Samsung Tab ",
+      "Ram": "4GB",
+      "Rom": "12GB",
+      "price": 32000,
+      "thumbnail": "https://i.ibb.co/0BQtWmw/02-galaxy-tab-a-mo-Edited-1.png"
+    },
+    {
+      "id": 100008,
+      "model": "Nothing",
+      "name": "Nothing Phone ",
+      "Ram": "4GB",
+      "Rom": "12GB",
+      "price": 35000,
+      "thumbnail": "https://i.ibb.co/SXk7y8S/Nothing-1-Phone-EEZEPC-1-1-Edited.png"
+    }
+  ]
+}
